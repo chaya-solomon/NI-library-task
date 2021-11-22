@@ -1,0 +1,26 @@
+C:\Users\1\Desktop\NI task\Library\Library\bin\Debug\netcoreapp3.1\Library.exe
+C:\Users\1\Desktop\NI task\Library\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+C:\Users\1\Desktop\NI task\Library\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.json
+C:\Users\1\Desktop\NI task\Library\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.dev.json
+C:\Users\1\Desktop\NI task\Library\Library\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\1\Desktop\NI task\Library\Library\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\1\Desktop\NI task\Library\Library\obj\Debug\netcoreapp3.1\Library.csprojAssemblyReference.cache
+C:\Users\1\Desktop\NI task\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\NI task\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+C:\Users\1\Desktop\NI task\Library\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\NI task\Library\Library\obj\Debug\netcoreapp3.1\Library.dll
+C:\Users\1\Desktop\NI task\Library\Library\obj\Debug\netcoreapp3.1\Library.pdb
+C:\Users\1\Desktop\NI task\Library\Library\obj\Debug\netcoreapp3.1\Library.genruntimeconfig.cache
+C:\Users\1\Desktop\‏‏NI task - עותק\Library\Library\bin\Debug\netcoreapp3.1\Library.exe
+C:\Users\1\Desktop\‏‏NI task - עותק\Library\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+C:\Users\1\Desktop\‏‏NI task - עותק\Library\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.json
+C:\Users\1\Desktop\‏‏NI task - עותק\Library\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.dev.json
+C:\Users\1\Desktop\‏‏NI task - עותק\Library\Library\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\1\Desktop\‏‏NI task - עותק\Library\Library\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\1\Desktop\‏‏NI task - עותק\Library\Library\obj\Debug\netcoreapp3.1\Library.csprojAssemblyReference.cache
+C:\Users\1\Desktop\‏‏NI task - עותק\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\‏‏NI task - עותק\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+C:\Users\1\Desktop\‏‏NI task - עותק\Library\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\‏‏NI task - עותק\Library\Library\obj\Debug\netcoreapp3.1\Library.dll
+C:\Users\1\Desktop\‏‏NI task - עותק\Library\Library\obj\Debug\netcoreapp3.1\Library.pdb
+C:\Users\1\Desktop\‏‏NI task - עותק\Library\Library\obj\Debug\netcoreapp3.1\Library.genruntimeconfig.cache
